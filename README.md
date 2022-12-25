@@ -35,10 +35,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently Study MCA from Madan Mohan Malaviya University of
+Technology, Gorakhpur(https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning JavaScript and Anguler  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
