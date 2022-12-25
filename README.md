@@ -36,7 +36,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently Study MCA from Madan Mohan Malaviya University of
-Technology, Gorakhpur(https://github.com/rishavanand/github-profilinator)  
+Technology, Gorakhpur  
   
 
 - 🌱 I’m currently learning JavaScript and Anguler  
