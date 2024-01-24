@@ -7,7 +7,7 @@
 <a href="https://twitter.com/https://twitter.com/Anshubham1373" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20860123/shubham-sharma" target="_blank">
+<a href="https://stackoverflow.com/users/20860123/shubham-sharma" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-sharma-a5a67b213/" target="_blank">
