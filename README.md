@@ -39,10 +39,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 Technology, Gorakhpur  
   
 
-- 🌱 I’m currently learning ASP.NET  
+- 🌱 I’m currently working as Data Analyst at iNest Web Pvt. Ltd. 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to : PowerBI, Tableau, SQL, and related technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
