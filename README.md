@@ -263,7 +263,7 @@ Developed a hybrid Selenium framework with:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shubham-sharma-a5a67b213/
 - 🌐 GitHub: https://github.com/aanshubham
-- 📧 Email: your-email@example.com
+- 📧 Email: sharma.shubham1373@gmail.com
 
 ---
 
