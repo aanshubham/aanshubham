@@ -1,111 +1,280 @@
-## Hey 👋, I'm Shubham Sharma!  
-  
+# Hey 👋, I'm Shubham Sharma!
 
-<a href="https://github.com/aanshubham" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://twitter.com/Anshubham1373" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/20860123/shubham-sharma" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-sharma-a5a67b213/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100006870312143" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/aanshubham/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-Enthusiastic engineering graduate with basic knowledge in coding and design. Proficient in C++, HTML 5, Java, JavaScript, and Python. Ability to learn new software and technologies quickly. Capability to work in teams by providing valuable support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Gaming App.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 MCA Graduate from Madan Mohan Malaviya University of
-Technology, Gorakhpur  
-  
-
-- 🌱 I’m currently working as Data Analyst at iNest Web Pvt. Ltd. 
-  
-
-- ❓ Ask me about anything related to : PowerBI, Tableau, SQL, and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
+<h3 align="center">🚀 ETL Data Engineer | QA Automation Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1T-diPNMtvnq6X-xSfXUAbVO6lCryLUZ0/view?usp=sharing" align="center" style="width: 100%" />
-</div>  
 
+<a href="https://github.com/aanshubham">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td></tr></table>  
+<a href="https://www.linkedin.com/in/shubham-sharma-a5a67b213/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>  
+<a href="https://stackoverflow.com/users/20860123/shubham-sharma">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
 
+<a href="https://twitter.com/Anshubham1373">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-</div>  
+<a href="https://www.instagram.com/aanshubham/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<br/>  
+</div>
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 👨‍💻 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=aanshubham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+I'm an **ETL Data Engineer** with **3.3+ years of professional experience** in designing scalable data pipelines, SQL optimization, automation testing, and full-stack application development.
 
-</td><td valign="top" width="50%">
+I enjoy solving real-world business problems by building reliable data platforms, automating testing workflows, and developing modern web applications.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshubham&hide_border=true&layout=compact" align="left" style="width: 100%" />
+### What I do
 
-</td></tr></table>  
+- 🚀 Build ETL Pipelines using Python & SQL
+- 📊 Transform and analyze data for business insights
+- 🤖 Develop AI & RAG powered applications
+- 🧪 Design Automation Testing Frameworks
+- 🌐 Build Full Stack Applications using React & Node.js
+- ☁️ Deploy applications on AWS & Docker
+- 📈 Optimize databases and improve performance
 
-<br/>  
+---
 
-  
+# 💼 Experience
 
-<br/>  
+### ETL Data Engineer | QA Automation Engineer | Full Stack Developer
 
-![Profile views counter](https://komarev.com/ghpvc/?username=aanshubham&&style=flat-square)  
-  
+**Experience:** **3.3+ Years**
 
-<br/>  
+### Current Expertise
 
+- ETL Development
+- Data Engineering
+- SQL Performance Optimization
+- Python Automation
+- Automation Testing
+- Selenium
+- REST API Testing
+- React.js
+- Node.js
+- AWS
+- Docker
+- Git
+- CI/CD
 
-<br />
+---
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+# 🌱 Currently Learning
+
+- AI Agents
+- LangChain
+- RAG Applications
+- LLM Integration
+- Apache Airflow
+- Azure Data Factory
+- Snowflake
+- Databricks
+- Kubernetes
+- System Design
+
+---
+
+# 💬 Ask Me About
+
+- ETL Development
+- Data Engineering
+- SQL
+- Python
+- Automation Testing
+- Selenium
+- TestNG
+- REST Assured
+- React
+- Node.js
+- AWS
+- AI Agents
+- LangChain
+- RAG
+- GitHub
+- CI/CD
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### Data Engineering
+
+- SQL
+- ETL
+- Data Warehousing
+- Data Modeling
+- Apache Airflow
+- Databricks
+- Azure Data Factory
+- Snowflake
+- Power BI
+- Tableau
+
+---
+
+### Automation Testing
+
+- Selenium WebDriver
+- TestNG
+- Maven
+- JUnit
+- REST Assured
+- Postman
+- JMeter
+- K6
+
+---
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 Mature Property
+
+Real Estate platform for Buy, Sell & Rent Properties.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express
+- PostgreSQL
+- AWS
+
+---
+
+### 🤖 AI Powered ETL Assistant
+
+An AI-based assistant that helps generate SQL, automate ETL workflows, and answer data engineering questions using RAG.
+
+**Tech Stack**
+
+- Python
+- LangChain
+- OpenAI
+- ChromaDB
+- FastAPI
+
+---
+
+### 📊 ETL Data Pipeline
+
+Designed automated ETL workflows for extracting, transforming, and loading enterprise data with optimized SQL and Python.
+
+---
+
+### 🧪 Automation Testing Framework
+
+Developed a hybrid Selenium framework with:
+
+- Java
+- TestNG
+- Maven
+- Page Object Model
+- Data Driven Testing
+- Extent Reports
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aanshubham&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshubham&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aanshubham&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aanshubham&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aanshubham&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-sharma-a5a67b213/
+- 🌐 GitHub: https://github.com/aanshubham
+- 📧 Email: your-email@example.com
+
+---
+
+### ⚡ Fun Fact
+
+> I enjoy building scalable data systems, automating repetitive tasks, and exploring the latest AI technologies.
+
+---
+
+![](https://komarev.com/ghpvc/?username=aanshubham&style=for-the-badge)
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
