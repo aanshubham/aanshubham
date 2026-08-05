@@ -226,12 +226,6 @@ Developed a hybrid Selenium framework with:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanshubham&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shubham-sharma-a5a67b213/
