@@ -223,22 +223,11 @@ Developed a hybrid Selenium framework with:
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=aanshubham&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aanshubham&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aanshubham&theme=tokyo-night"/>
-
-</p>
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aanshubham&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanshubham&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
